@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitNoobie1234.
 - 👀 I’m interested in becoming a Game Dev.
-- 🌱 I’m currently learning how to be a game Dev on scratch.
+- 🌱 I’m currently learning how to be a game Dev.
 - 💞️ I’m looking to collaborate on making a game.
 - 📫 How to reach me idk
 - 😄 Pronouns: idk.
